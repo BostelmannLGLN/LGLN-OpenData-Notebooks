@@ -1,1 +1,5 @@
-rasterio==1.2.10
+geopandas==0.10.2
+matplotlib==3.4.3 
+rasterio==1.3a2
+imageio==2.13.3
+moviepy==1.0.3
