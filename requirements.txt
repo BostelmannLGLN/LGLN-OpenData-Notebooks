@@ -3,3 +3,5 @@ matplotlib==3.4.3
 rasterio==1.3a2
 imageio==2.13.3
 moviepy==1.0.3
+folium==0.12.1
+mapclassify==2.4.3
