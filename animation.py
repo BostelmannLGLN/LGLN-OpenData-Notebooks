@@ -60,7 +60,7 @@ def add_banner(image_path, logo_path, out_path, name,
     
     german_date = f'{image_d.day}. {month} {image_d.year}'
 
-    font = ImageFont.truetype("../data/ClearSans-Regular.ttf", 24) #TODO
+    font = ImageFont.truetype("./fonts/ClearSans-Regular.ttf", 24) #TODO
     text_width, text_height = draw.textsize(german_date, font=font)
 
     if add_name:
