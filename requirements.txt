@@ -6,3 +6,4 @@ moviepy==1.0.3
 folium==0.12.1
 mapclassify==2.4.3
 scikit-image==0.19.0
+ipython==7.30.1
